@@ -1,4 +1,4 @@
-# fnol-prostreno
+# FNOL Prostřeno
 HTML+CSS prototype
 
 Web app prototype for food rating.
